@@ -1,0 +1,250 @@
+{
+  "heading": "Present Perfect Continuous and Past Perfect Continuous Tense",
+  "topics": [
+    {
+      "heading": "Present Perfect Continuous and Past Perfect Continuous Tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank appropriately:<br> She __________ for the promotion for the last five months.",
+          "options": [
+            "has been hoping",
+            "had been hoping",
+            "is hoping",
+            "was hoping"
+          ],
+          "answer": 0,
+          "explanation": "The present perfect continuous is used to describe an ongoing action that started in the past and is still happening. The use of 'for the last five months' indicates a continuous action until now."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank appropriately:<br> They __________ to solve the issue since morning.",
+          "options": [
+            "are trying",
+            "have been trying",
+            "were trying",
+            "had been trying"
+          ],
+          "answer": 1,
+          "explanation": "'Since morning' requires the present perfect continuous because the action started in the past and is still ongoing."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank appropriately:<br> I __________ well recently.",
+          "options": [
+            "haven’t been sleeping",
+            "hadn’t been sleeping",
+            "am not sleeping",
+            "wasn’t sleeping"
+          ],
+          "answer": 0,
+          "explanation": "This is a negative form of the present perfect continuous, indicating that the action has not been happening for a recent period of time."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank appropriately:<br> They __________ regularly for their exams, which is why they are unprepared.",
+          "options": [
+            "haven't been studying",
+            "hadn't been studying",
+            "weren’t studying",
+            "aren’t studying"
+          ],
+          "answer": 0,
+          "explanation": "'Haven’t been studying' refers to the ongoing failure to study up to the present moment, matching the present perfect continuous tense."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blanks appropriately:<br> __________ the kids __________ for their exam preparation lately?",
+          "options": [
+            "Have; been focusing",
+            "Were; focusing",
+            "Are; focusing",
+            "Had; focused"
+          ],
+          "answer": 0,
+          "explanation": "The question seeks to find out if the action (focusing) has been taking place until now, matching the present perfect continuous form."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank appropriately:<br> By the time they arrived, we __________ for three hours.",
+          "options": [
+            "have been waiting",
+            "had been waiting",
+            "waited",
+            "wait"
+          ],
+          "answer": 1,
+          "explanation": "The past perfect continuous is used because the action (waiting) started before another past event and continued until that point."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blanks appropriately:<br> He __________ for this position for a long time before he got it.",
+          "options": [
+            "had been applying",
+            "has been applying",
+            "was applying",
+            "applied"
+          ],
+          "answer": 0,
+          "explanation": "The action started before the event of getting the position, so the past perfect continuous is required."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the tense in the following sentence:<br> \"They have been learning Spanish for three years.\"",
+          "options": [
+            "Present continuous",
+            "Past continuous",
+            "Present perfect continuous",
+            "Past perfect continuous"
+          ],
+          "answer": 2,
+          "explanation": "The sentence describes an action that started in the past ('for three years') and is still ongoing. The use of 'have been' along with the present participle ('learning') indicates the present perfect continuous tense."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the tense in the following sentence:<br> \"I haven’t been exercising regularly lately.\"",
+          "options": [
+            "Present perfect",
+            "Present perfect continuous",
+            "Past perfect continuous",
+            "Present continuous"
+          ],
+          "answer": 1,
+          "explanation": "This sentence expresses an action that has not been happening recently, using the negative form 'haven’t been' combined with the present participle ('exercising'). This is the present perfect continuous tense, negative form."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the tense in the following sentence:<br> \"Have you been working on the project this week?\"",
+          "options": [
+            "Present continuous",
+            "Present perfect continuous",
+            "Past continuous",
+            "Past perfect continuous"
+          ],
+          "answer": 1,
+          "explanation": "The question asks whether an action that started in the past is still ongoing. The use of 'Have you been' and the present participle 'working' places this sentence in the present perfect continuous tense."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the tense in the following sentence:<br> \"She had been waiting for an hour before the bus arrived.\"",
+          "options": [
+            "Present perfect continuous",
+            "Past perfect continuous",
+            "Past continuous",
+            "Present continuous"
+          ],
+          "answer": 1,
+          "explanation": "The sentence shows an action that began before another action in the past and continued up until that point. The use of 'had been' with the present participle 'waiting' indicates the past perfect continuous tense."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the tense in the following sentence:<br> \"They hadn’t been studying much before the exam.\"",
+          "options": [
+            "Past continuous",
+            "Present perfect continuous",
+            "Past perfect continuous",
+            "Present continuous"
+          ],
+          "answer": 2,
+          "explanation": "This sentence describes an action that had not been happening before another event in the past (the exam). 'Hadn’t been' combined with the present participle 'studying' shows the past perfect continuous tense, negative form."
+        },
+        {
+          "questionNo": 13,
+          "question": "Spot the error in the following question:<br> They are learning French since last year.",
+          "options": [
+            "are learning",
+            "since last year",
+            "learning French",
+            "They"
+          ],
+          "answer": 0,
+          "explanation": "The sentence uses the present continuous tense ('are learning'), but the context ('since last year') requires the present perfect continuous tense. The correct sentence should be: They have been learning French since last year."
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following question:<br> She hadn’t being practicing before the deadline.",
+          "options": [
+            "hadn’t being",
+            "practicing",
+            "before",
+            "the deadline"
+          ],
+          "answer": 0,
+          "explanation": "The error lies in 'hadn’t being,' which is incorrect because 'being' should be replaced by 'been' in the past perfect continuous tense."
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following question:<br> Had you been work on the project before the manager asked for updates?",
+          "options": [
+            "Had you been",
+            "work",
+            "before",
+            "the manager"
+          ],
+          "answer": 1,
+          "explanation": "The error is in the verb 'work,' which should be in the present participle form ('working')."
+        },
+        {
+          "questionNo": 16,
+          "question": "Spot the error in the following question:<br> Hadn’t they being waiting for the bus when it arrived?",
+          "options": [
+            "Hadn’t",
+            "they",
+            "being",
+            "waiting"
+          ],
+          "answer": 2,
+          "explanation": "The word 'being' is incorrect; it should be 'been' to form the past perfect continuous tense."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct form of verb in the following sentence:<br> She ________ (study) French for three months.",
+          "options": [
+            "studies",
+            "has been studying",
+            "is studying",
+            "had been studying"
+          ],
+          "answer": 1,
+          "explanation": "The present perfect continuous tense is used to express an action that began in the past and continues into the present. Therefore, the correct verb form is 'has been studying.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct form of verb in the following sentence:<br> They ________ (wait) for the bus for an hour before it finally arrived.",
+          "options": [
+            "wait",
+            "has been waiting",
+            "are waiting",
+            "had been waiting"
+          ],
+          "answer": 3,
+          "explanation": "The past perfect continuous tense is used to describe an action that was ongoing in the past and was completed before another past event. Here, the action of waiting happened before the bus arrived, so the correct form is 'had been waiting.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct form of verb in the following sentence:<br> I ________ (not / feel) well lately, so I haven’t gone to work.",
+          "options": [
+            "am not feeling",
+            "have not been feeling",
+            "had not been feeling",
+            "do not feel"
+          ],
+          "answer": 1,
+          "explanation": "The present perfect continuous tense is used here because the speaker's feeling unwell started in the past and continues to the present. The word lately suggests an ongoing or recent situation. Therefore, 'have not been feeling' is correct."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct form of verb in the following sentence:<br> ________ you ________ (live) here long before you moved?",
+          "options": [
+            "Did / live",
+            "Were / living",
+            "Had / been living",
+            "Have / been living"
+          ],
+          "answer": 2,
+          "explanation": "In the interrogative form of the past perfect continuous tense, we use 'had' followed by the subject and the verb in the 'been + -ing' form. The sentence asks about an ongoing action in the past (living here) that happened before another past action (moved). Hence, 'had been living' is the correct form."
+        }
+      ]
+    }
+  ]
+}
